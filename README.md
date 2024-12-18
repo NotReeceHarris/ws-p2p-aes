@@ -1,8 +1,8 @@
-# ws-p2p-rsa
+# ws-p2p-aes
 
-**A Open-Source Peer-to-Peer RSA Communication**
+**A Open-Source Peer-to-Peer AES Communication**
 
-ws-p2p-rsa provides a peer-to-peer (P2P) communication with RSA, using the [ws-p2p-framework](https://github.com/NotReeceHarris/ws-p2p-framework).
+ws-p2p-aes provides a peer-to-peer (P2P) communication with AES, using the [ws-p2p-framework](https://github.com/NotReeceHarris/ws-p2p-framework).
 
 ## Usage
 
